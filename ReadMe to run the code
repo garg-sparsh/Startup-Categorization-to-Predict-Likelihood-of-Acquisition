@@ -1,0 +1,11 @@
+Follow these steps to run the program:
+1. Run script company.py and give the path of company folder ie /home/sgarg/P3/company then company.csv will get created
+2. Run script person.py and give the path of company folder ie /home/sgarg/P3/person then person.csv will get created
+3. Run script product.py and give the path of company folder ie /home/sgarg/P3/product then product.csv will get created
+4. Run script finance.py and give the path of company folder ie /home/sgarg/P3/finance then finance.csv will get created
+5. Run script companyperson.py which takes the input company.csv and person.csv and generates companyFinal.csv and personFinal.csv
+6. Run script personMerge.py which takes the input companyFinal.csv and personFinal.csv and generates comPerMerge.csv which will be our final data set
+7. Run script splitCSVs.py which split the files into out-test.csv and out-train.csv
+8. Run script svm.py to test supprt vector machine algorithm for acquisition prediction.
+9. Run InputCompany.py to test the probability of acquisition of a startup.
+10. test data for step 10 is available --> test1.csv, test2.csv and test5.csv
