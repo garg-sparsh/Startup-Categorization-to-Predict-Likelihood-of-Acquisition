@@ -1,4 +1,5 @@
 # Startup-Categorization-to-Predict-Likelihood-of-Acquisition
+Download the raw data from http://www.cs.cmu.edu/~guangx/crunchbase.html
 Acquisition prediction deals with choosing correct target companies for the bidder company, and is a challenging task. We will be using the dataset from Crunchbase to predict whether a company   will   be   acquired   and   the   probability   of   company   acquisition.
 
 
@@ -9,3 +10,5 @@ company   will   be   acquired   or   not    using   a   Support   Vector   Mach
 3. The second model will predict the probability of company acquisition.We  will be predicting “whether a given company will be
 most likely to be acquired” on the basis on some attributes like company age,company category,company products etc.  
 For this we will be using the naive bayes as our learning algorithm
+
+
